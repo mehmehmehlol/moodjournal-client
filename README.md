@@ -3,10 +3,8 @@ Mood Journal
 
 ## Objectives
 
-This project is a mood journal to help log entries and moods for users.
-Disclaimer: This repo is no longer maintained as of 12/12/2022.
-
-<a href="https://moodjournal-client.herokuapp.com/" target="_blank" rel="noopener">Demo</a> 
+This project is a mood journal to help log entries and moods for users.<br/>
+Disclaimer: This repo is no longer maintained as of 12/12/2022, due to many deprecated packages. To browse what the site would look, screenshots are attached below.
 
 ---
 
