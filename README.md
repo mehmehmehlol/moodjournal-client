@@ -4,7 +4,7 @@ Mood Journal
 ## Objectives
 
 This project is a mood journal to help log entries and moods for users.<br/>
-Disclaimer: This repo is no longer maintained as of 12/12/2022, due to many deprecated packages. To browse what the site would look, screenshots are attached below.
+Disclaimer: This repo is no longer maintained as of 12/12/2022, due to many deprecated packages. To browse what the site would look like, screenshots are attached below.
 
 ---
 
